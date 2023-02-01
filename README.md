@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="" align="center" style="width: 100%" />
-</div>  
+</div> -->  
   
 
 ### <div align="center">Hola! Soy Juan Antonio</div>  
