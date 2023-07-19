@@ -6,10 +6,10 @@
 ### <div align="center">Hola! Soy Juan Antonio</div>  
   
 
-<div align="center">Me dedico al desarrollo, principalmente en Java, aunque también hago cosillas en otros lenguajes.</div>  
-  
+<div align="center">Soy un matemático que antes se dedicaba a la docencia universitaria. El ambiente me cansó demasiado, por lo que decidí darle un giro a mi carrera y dedicarme al desarrollo.</div>  
+<div align="center">Ahora trabajo en REWE Digital Spain, en un proyecto en el que utilizo las tecnologías que están un poco más abajo.</div>  
 
-<div align="center">En este repositorio cuelgo algo de lo que voy haciendo en mi tiempo libre (y otras cosas que no están visibles).</div>  
+<div align="center">Como casi todo desarrollador en activo, no hay nada relacionado con el trabajo en este repositorio, pero sí que hay alguna que otra cosa de pequeños proyectos personales, o bien de hace tiempo o que hago cuando me apetece.</div>  
   
 
 <br/>  
