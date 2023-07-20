@@ -6,10 +6,10 @@
 ### <div align="center">Hola! Soy Juan Antonio</div>  
   
 
-<div align="center">Soy un matemático que antes se dedicaba a la docencia universitaria. El ambiente me cansó demasiado, por lo que decidí darle un giro a mi carrera y dedicarme al desarrollo.</div>  
-<div align="center">Ahora trabajo en REWE Digital Spain, en un proyecto en el que utilizo las tecnologías que están un poco más abajo.</div>  
+<div>Soy un matemático que antes se dedicaba a la docencia universitaria. El ambiente me cansó demasiado, por lo que decidí darle un giro a mi carrera y dedicarme al desarrollo.</div>  
+<div>Ahora trabajo en REWE Digital Spain, en un proyecto en el que utilizo las tecnologías que están un poco más abajo.</div>  
 
-<div align="center">Como casi todo desarrollador en activo, no hay nada relacionado con el trabajo en este repositorio, pero sí que hay alguna que otra cosa de pequeños proyectos personales, o bien de hace tiempo o que hago cuando me apetece.</div>  
+<div>Como casi todo desarrollador en activo, no hay nada relacionado con el trabajo en este repositorio, pero sí que hay alguna que otra cosa de pequeños proyectos personales, o bien de hace tiempo o que hago cuando me apetece.</div>  
   
 
 <br/>  
@@ -38,7 +38,6 @@
 
 
 
-
 ## Otras cosas que sé
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -55,7 +54,7 @@
 <br/>  
 
 
-## Mis RRSS 
+## Dónde encontrarme 
 <div align="center">
 <a href="https://github.com/maciasgarcia" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -79,9 +78,4 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maciasgarcia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
 
